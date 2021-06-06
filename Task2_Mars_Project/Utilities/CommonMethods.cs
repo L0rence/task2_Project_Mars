@@ -11,7 +11,7 @@ namespace Task2_Mars_Project.Utilities
 {
     public class CommonMethods
     {
-        //Capture Screenshot
+        //Capture Screenshot 
 
 
         public MediaEntityModelProvider CaptureScreenshotAndReturnModel(string Name)
@@ -22,7 +22,7 @@ namespace Task2_Mars_Project.Utilities
         }
 
 
-        //Excel Reader
+        //Excel Reader data
         public class ExcelLibHelper
         {
 
